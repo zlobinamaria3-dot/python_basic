@@ -4,6 +4,6 @@ if len(lst)>0:
     print(new_lst)
 if len(lst)==0:
     new_lst=lst
-    print(new_lst)
+    print([0])
 
 
